@@ -1,16 +1,32 @@
-## Hi there 👋
+Perfect — here’s a **professional yet realistic GitHub README** for a **first-year Computer Systems Engineering student** with basic C++ knowledge:
 
-<!--
-**Yazansal/Yazansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Yazan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Computer Systems Engineering Student**
+💡 Passionate about technology, problem-solving, and continuous learning.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yazansal&show_icons=true&theme=transparent)
+
+## 🌱 About Me
+
+I'm a **first-year Computer Systems Engineering student** with a growing interest in **software development and computer architecture**.
+Currently, I’m building my foundation in **C++ programming** and exploring how hardware and software interact to create efficient systems.
+
+## 🧰 Skills & Interests
+
+* **Programming:** Basic knowledge of C++
+* **Areas of Interest:** Computer systems, programming fundamentals, and technology innovation
+* **Soft Skills:** Analytical thinking, adaptability, and curiosity to learn
+
+## 🎯 Goals
+
+* Strengthen my understanding of **C++ and data structures**
+* Learn **Linux, networking, and embedded systems** fundamentals
+* Contribute to **open-source projects** in the future
+
+## 📫 Contact
+
+* 📧 salamehyazan72@gmail.com
+
