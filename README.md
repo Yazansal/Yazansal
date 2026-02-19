@@ -1,6 +1,3 @@
-Perfect — here’s a **professional yet realistic GitHub README** for a **first-year Computer Systems Engineering student** with basic C++ knowledge:
-
----
 
 # 👋 Hi, I'm Yazan
 
